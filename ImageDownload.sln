@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageDownload.App", "ImageDownload.App\ImageDownload.App.csproj", "{52164592-439C-44F3-886C-C74897F3FBBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageDownload.Domain", "ImageDownload.Domain\ImageDownload.Domain.csproj", "{891D0401-39E2-499B-B09C-652085612323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageDownload.Commands", "ImageDownload.Commands\ImageDownload.Commands.csproj", "{18E3BB95-1002-4462-88CD-E88AD78A0F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52164592-439C-44F3-886C-C74897F3FBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52164592-439C-44F3-886C-C74897F3FBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52164592-439C-44F3-886C-C74897F3FBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52164592-439C-44F3-886C-C74897F3FBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{891D0401-39E2-499B-B09C-652085612323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891D0401-39E2-499B-B09C-652085612323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891D0401-39E2-499B-B09C-652085612323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891D0401-39E2-499B-B09C-652085612323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E3BB95-1002-4462-88CD-E88AD78A0F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E3BB95-1002-4462-88CD-E88AD78A0F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E3BB95-1002-4462-88CD-E88AD78A0F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E3BB95-1002-4462-88CD-E88AD78A0F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

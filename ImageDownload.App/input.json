@@ -1,0 +1,5 @@
+{
+  "Count": 10,
+  "Parallelism": 2,
+  "SavePath": "./outputs"
+}
