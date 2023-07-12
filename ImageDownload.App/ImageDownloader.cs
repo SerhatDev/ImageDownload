@@ -12,6 +12,9 @@ public sealed class ImageDownloader
     public ImageDownloader(ProcessSettings settings)
     {
         _settings = settings;
+
+        if (!Directory.Exists(settings.SavePath))
+            Directory.CreateDirectory(settings.SavePath);
     }
 
     public void DownloadImages(CancellationToken tk)
